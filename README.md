@@ -11,5 +11,7 @@ https://github.com/Volkovgit/pdp/tree/js4/js4
 5) Vanila dropdown
 https://github.com/Volkovgit/pdp/tree/js5/js5
 6) Photo Gallery
-https://github.com/Volkovgit/pdp/tree/js7
+https://github.com/Volkovgit/pdp/tree/js7  
+7) ToDo Angular (in process)
+https://github.com/Volkovgit/todoAngular   
 Each branch contains a description README.md
